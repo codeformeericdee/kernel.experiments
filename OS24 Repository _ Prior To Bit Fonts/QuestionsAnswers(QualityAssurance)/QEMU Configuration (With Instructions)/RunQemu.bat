@@ -1,0 +1,1 @@
+cd ../../Build/Outputs/FloppyFormat && qemu-system-i386 -fda OS24.flp
